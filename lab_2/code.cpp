@@ -1,3 +1,5 @@
+// Calculation of an expression with domain 1
+
 #include <iostream>
 #include <limits>
 #include <string>
