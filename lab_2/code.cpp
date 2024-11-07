@@ -1,4 +1,4 @@
-// Calculation of an expression with domain 1
+// Calculation of an expression 
 
 #include <iostream>
 #include <limits>
